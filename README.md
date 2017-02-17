@@ -2,6 +2,6 @@
 
 Hier findet ihr von mir geschriebene Prosa.
 
-## Achtung
+## Achtung!
 
-Es kann sich bei den Texten durchaus auch um den 1. Entwurf der Geschichte handeln.
+Es kann sich bei den Texten durchaus erst um den 1. Entwurf der Geschichte handeln.
