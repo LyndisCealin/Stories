@@ -3,10 +3,10 @@
   <channel>
     <title>Lyns Schreibwerkstatt</title>
     <description>Meine persönliche Schreibwerkstatt.</description>
-    <link>http://carte-noire.jacobtomlinson.co.uk/lyndiscealin.github.io/Stories/</link>
-    <atom:link href="http://carte-noire.jacobtomlinson.co.uk/lyndiscealin.github.io/Stories/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 22 Feb 2017 19:28:27 +0100</pubDate>
-    <lastBuildDate>Wed, 22 Feb 2017 19:28:27 +0100</lastBuildDate>
+    <link>http://carte-noire.jacobtomlinson.co.uk//Stories/</link>
+    <atom:link href="http://carte-noire.jacobtomlinson.co.uk//Stories/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Wed, 22 Feb 2017 19:32:35 +0100</pubDate>
+    <lastBuildDate>Wed, 22 Feb 2017 19:32:35 +0100</lastBuildDate>
     <generator>Jekyll v3.4.0</generator>
     
       <item>
@@ -25,7 +25,7 @@
             &lt;p class=&quot;links&quot;&gt;
   &lt;a href=&quot;https://www.twitter.com/Lyndis_Cealin&quot; target=&quot;_new&quot;&gt;&lt;i class=&quot;fa fa-twitter&quot;&gt;&lt;/i&gt;&lt;/a&gt;
   &lt;a href=&quot;https://github.com/lyndiscealin&quot; target=&quot;_new&quot;&gt;&lt;i class=&quot;fa fa-github-alt&quot;&gt;&lt;/i&gt;&lt;/a&gt;
-  &lt;a href=&quot;lyndiscealin.github.io/Stories/feed.xml&quot; target=&quot;_new&quot;&gt;&lt;i class=&quot;fa fa-rss&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+  &lt;a href=&quot;/Stories/feed.xml&quot; target=&quot;_new&quot;&gt;&lt;i class=&quot;fa fa-rss&quot;&gt;&lt;/i&gt;&lt;/a&gt;
 &lt;/p&gt;
 
             &lt;a href=&quot;http://carte-noire.jacobtomlinson.co.uk/&quot; style=&quot;text-align:center&quot;&gt;  &lt;h2&gt;Home&lt;/h2&gt; &lt;/a&gt;
@@ -44,7 +44,7 @@
                     
              
              &lt;li&gt;
-               &lt;a href=&quot;lyndiscealin.github.io/Stories/chapters/Liam/00-Prolog&quot;&gt;  Prolog &lt;/a&gt;
+               &lt;a href=&quot;/Stories/chapters/Liam/00-Prolog&quot;&gt;  Prolog &lt;/a&gt;
                &lt;small&gt;1. Entwurf, fertig&lt;/small&gt;
              &lt;/li&gt;
                         
@@ -53,7 +53,7 @@
                     
              
              &lt;li&gt;
-               &lt;a href=&quot;lyndiscealin.github.io/Stories/chapters/Liam/01-Neuer%20Auftrag%20(copy%201)&quot;&gt;  Neuer Auftrag &lt;/a&gt;
+               &lt;a href=&quot;/Stories/chapters/Liam/01-Neuer%20Auftrag%20(copy%201)&quot;&gt;  Neuer Auftrag &lt;/a&gt;
                &lt;small&gt;1. Entwurf, unfertig&lt;/small&gt;
              &lt;/li&gt;
                         
@@ -62,7 +62,7 @@
                     
              
              &lt;li&gt;
-               &lt;a href=&quot;lyndiscealin.github.io/Stories/chapters/Liam/01-Neuer%20Auftrag&quot;&gt;  Neuer Auftrag &lt;/a&gt;
+               &lt;a href=&quot;/Stories/chapters/Liam/01-Neuer%20Auftrag&quot;&gt;  Neuer Auftrag &lt;/a&gt;
                &lt;small&gt;1. Entwurf, unfertig&lt;/small&gt;
              &lt;/li&gt;
                         
@@ -78,8 +78,8 @@
     &lt;/div&gt;
 &lt;/div&gt;</description>
         <pubDate>Wed, 22 Feb 2017 00:00:00 +0100</pubDate>
-        <link>http://carte-noire.jacobtomlinson.co.uk/lyndiscealin.github.io/Stories/Liam.html</link>
-        <guid isPermaLink="true">http://carte-noire.jacobtomlinson.co.uk/lyndiscealin.github.io/Stories/Liam.html</guid>
+        <link>http://carte-noire.jacobtomlinson.co.uk//Stories/Liam.html</link>
+        <guid isPermaLink="true">http://carte-noire.jacobtomlinson.co.uk//Stories/Liam.html</guid>
         
         <category>Fantasy</category>
         
