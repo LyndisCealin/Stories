@@ -1,11 +1,27 @@
 [
   
   {
+    "title"    : "Neuer Auftrag",
+    "category" : "",
+    "tags"     : "1. Entwurf, unfertig",
+    "url"      : "/Stories/liam/Neuer-Auftrag.html",
+    "date"     : "2017-02-28 00:00:00 +0100"
+    } ,
+    
+  {
+    "title"    : "Prolog",
+    "category" : "",
+    "tags"     : "1. Entwurf, fertig",
+    "url"      : "/Stories/liam/Prolog.html",
+    "date"     : "2017-02-27 00:00:00 +0100"
+    } ,
+    
+  {
     "title"    : "Liam",
     "category" : "",
-    "tags"     : "Fantasy, Boys Love, Action, Ich-Perspektive, nicht abgeschlossen",
+    "tags"     : "Fantasy, Boys Love, Action, Ich-Perspektive",
     "url"      : "/Stories/Liam.html",
-    "date"     : "2017-02-22 00:00:00 +0100"
+    "date"     : "2017-02-17 00:00:00 +0100"
     } 
     
   ]
