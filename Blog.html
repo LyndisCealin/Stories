@@ -4,7 +4,7 @@
     <head>
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Kontakt</title>
+<title>Blog</title>
 <meta name="description" content="Meine persönliche Schreibwerkstatt.">
 
 <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css">
@@ -34,11 +34,10 @@
 
         <div class="col-md-12 main content-panel">
 
-            <h1 class="header author-header" itemprop="headline">Kontakt</h1>
-            
-             
-            <div class="author-text" style="font-size:20px">
-                
+            <h1 class="header author-header" itemprop="headline">Blog</h1>
+
+            <div class="author-text" style="font-size:20px;">
+                Hier findet sich alles rund um meine Stories und auch ein wenig um mich; Gedanken, Pläne, Schwierigkeiten oder einfach nur Fun Facts.
             </div>
 
             <p class="links">
@@ -47,43 +46,62 @@
   <a href="/feed.xml" target="_new"><i class="fa fa-rss"></i></a>
 </p>
 
-              <a href="/" style="text-align:center">  <h2>Home</h2> </a>
+            <a href="/" style="text-align:center">  <h2>Home</h2> </a>
           </div>
           
-
+            
+            
            
           <div class="col-md-12 main content-panel">
             
             <div class="articles">
-
+                <h2>Posts</h2>
              <ul>
              
+                
+                    
+                    
+                   
              <li>
-               <h2 class="header author-header" itemprop="headline">Impressum und Verantwortung iSdP</h2>
-            <p>Anna-Carina Strunk</p>
-            <p>Emser Straße 51</p>
-            <p>56112 Lahnstein</p>
-               
-             </li>
-            <li>
-            <h2>E-Mail Adresse</h2>
-            <script language="JavaScript">
-            var username = "lyndiscealin";
-            var hostname = "freenet.de";
-            var linktext = username + "@" + hostname ;
-            document.write("<a href='" + "mail" + "to:" + username + "@" + hostname + "'>" + linktext + "</a>");
-            </script>
-            </li>
+               <a href="/blog/Autorenwahnsinn.html">  Wie ich zum Schreiben kam </a>
+               <small></small>
               
+             </li>
+                        
+                    
+                
+                    
+                    
+                
+                    
+                    
+                
+                    
+                    
+                
+                    
+                    
+                   
+             <li>
+               <a href="/blog/Liam.html">  Liam </a>
+               <small></small>
+              
+             </li>
+                        
+                    
+                
+                    
+                    
+                
+               
             </ul>
             
             </div>
        
         </div>
-    
+          
     </div>
 </div>
-
       </div>
     </div>
 
@@ -99,48 +117,6 @@
 
 
 
-
-<script type="text/javascript">
-
-  function setFontSize() {
-
-    var title, dateOfTitle, fontSizeOfTitle, listOfA, listOfSmall, listOfArticlesDiv, divWidth;
-
-    listOfArticlesDiv = document.getElementsByClassName("articles");
-
-    for (i = 0; i < listOfArticlesDiv.length; i++) {
-
-      listOfA = document.getElementsByClassName("articles")[i].getElementsByTagName("a");
-      listOfSmall = document.getElementsByClassName("articles")[i].getElementsByTagName("small");
-
-      divWidth = document.getElementsByClassName("articles")[i].offsetWidth;
-
-      for (k = 0; k < listOfSmall.length; k++) {
-
-        title = $(listOfA[k]);
-        dateOfTitle = $(listOfSmall[k]);
-
-        fontSizeOfTitle = startingFontSize;
-        title.css("font-size", fontSizeOfTitle);
-
-        while (title.width() + dateOfTitle.width() >= divWidth)
-          title.css("font-size", fontSizeOfTitle -= 0.5);
-
-      }
-    }
-  }
-
-  function getStartFontSize() {
-    try {
-      startingFontSize = parseInt($(document.getElementsByClassName("articles")[0].getElementsByTagName("a")[0]).css("font-size"));
-      setFontSize();
-      window.addEventListener('resize', setFontSize, true);
-    } catch (e) {}
-  }
-
-  $(document).ready(getStartFontSize);
-
-</script>
 
 
 
