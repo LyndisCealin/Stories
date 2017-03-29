@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
     <url>
-      <loc>lyns.world/nachHause.html</loc>
+      <loc>lyns.world/NachHause.html</loc>
       
         <lastmod>2017-03-24T00:00:00+01:00</lastmod>
       
@@ -11,18 +11,9 @@
     </url>
   
     <url>
-      <loc>lyns.world/nach%20hause/nachHause.html</loc>
+      <loc>lyns.world/nachhause/NachHause.html</loc>
       
         <lastmod>2017-03-24T00:00:00+01:00</lastmod>
-      
-      <changefreq>weekly</changefreq>
-      <priority>1.0</priority>
-    </url>
-  
-    <url>
-      <loc>lyns.world/blog/BoysLove.html</loc>
-      
-        <lastmod>2017-03-11T00:00:00+01:00</lastmod>
       
       <changefreq>weekly</changefreq>
       <priority>1.0</priority>
@@ -75,6 +66,15 @@
   
     <url>
       <loc>lyns.world/Liam.html</loc>
+      
+        <lastmod>2017-02-17T00:00:00+01:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
+      <loc>lyns.world/Liam-komplett.html</loc>
       
         <lastmod>2017-02-17T00:00:00+01:00</lastmod>
       
