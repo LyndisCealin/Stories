@@ -3,19 +3,23 @@
   <channel>
     <title>Lyns Welt</title>
     <description>Plattform für meine Geschichten und zugehörigem Blog.</description>
-    <link>lyns.world/</link>
-    <atom:link href="lyns.world/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 31 Mar 2017 16:49:48 +0200</pubDate>
-    <lastBuildDate>Fri, 31 Mar 2017 16:49:48 +0200</lastBuildDate>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Tue, 04 Apr 2017 14:27:36 +0200</pubDate>
+    <lastBuildDate>Tue, 04 Apr 2017 14:27:36 +0200</lastBuildDate>
     <generator>Jekyll v3.4.0</generator>
+    
+        
+            
+      
     
         
       <item>
         <title>[Neue Story] Nach Hause</title>
         <description>Es ist nicht einfach seinen Partner das erste mal mit nach Hause zu nehmen... besonders nicht, wenn man die erste ist, die das tut und der Partner etwas aus dem fällt, was als 'normal' bezeichnet wird.</description>
         <pubDate>Fri, 24 Mar 2017 00:00:00 +0100</pubDate>
-        <link>lyns.world/NachHause.html</link>
-        <guid isPermaLink="true">lyns.world/NachHause.html</guid>
+        <link>http://localhost:4000/NachHause.html</link>
+        <guid isPermaLink="true">http://localhost:4000/NachHause.html</guid>
         
         <category>Sci-Fi</category>
         
@@ -103,12 +107,17 @@
           
                     
             
+            
+        
+          
+                    
+            
                     
                 <item>
                 <title>[Neuer Blogpost] "Liam - Hintergründe"</title>
                 <description>&lt;h2 id=&quot;die-geschichte-hinter-der-story&quot;&gt;Die Geschichte hinter der Story&lt;/h2&gt;
 
-&lt;p&gt;Die Story &lt;a href=&quot;lyns.world/Liam.html&quot;&gt;Liam&lt;/a&gt; ist in einem Foren-RPG entstanden und auch wenn die Welt und die meisten Charaktere aus meiner Feder stammen, gehört mir ein Charakter nicht: Das ist Joel.
+&lt;p&gt;Die Story &lt;a href=&quot;http://localhost:4000/Liam.html&quot;&gt;Liam&lt;/a&gt; ist in einem Foren-RPG entstanden und auch wenn die Welt und die meisten Charaktere aus meiner Feder stammen, gehört mir ein Charakter nicht: Das ist Joel.
 Joel ist geistiges Eigentum meiner Playpartnerin und auch wenn ich die Erlaubnis und die volle Verfügung über ihn habe, will ich das hier dennoch erwähnen. Es ist mir wichtig, dass man weiß, was meiner Fantasie entspringt und was nicht.&lt;/p&gt;
 
 &lt;p&gt;Foren-RPGs in Stories umzuschreiben ist nicht einfach, weshalb nicht 1 zu 1 alles übernommen werden wird, was Joel ausmacht.
@@ -162,8 +171,8 @@ Jetzt kann meine Playpartnerin und auch ihr ganz einfach mitverfolgen, was ich s
 &lt;p&gt;Viel Spaß dabei!&lt;/p&gt;
 </description>
                 <pubDate>Fri, 10 Mar 2017 00:00:00 +0100</pubDate>
-                <link>lyns.world/blog/Liam.html</link>
-                <guid isPermaLink="true">lyns.world/blog/Liam.html</guid>
+                <link>http://localhost:4000/blog/Liam.html</link>
+                <guid isPermaLink="true">http://localhost:4000/blog/Liam.html</guid>
                 </item>
                 
             
@@ -261,15 +270,10 @@ Hallo Jain-san. Schön, dass Sie Zeit hatten. Bitte, treten Sie ein.&lt;br /&gt;
 
 </description>
                 <pubDate>Fri, 10 Mar 2017 00:00:00 +0100</pubDate>
-                <link>lyns.world/blog/Foren-RPGs.html</link>
-                <guid isPermaLink="true">lyns.world/blog/Foren-RPGs.html</guid>
+                <link>http://localhost:4000/blog/Foren-RPGs.html</link>
+                <guid isPermaLink="true">http://localhost:4000/blog/Foren-RPGs.html</guid>
                 </item>
                 
-            
-            
-        
-          
-                    
             
             
         
@@ -399,8 +403,8 @@ letztendlich ein tiefes Band geknüpft, das mich den Rest meines Lebens
 begleiten wird.&lt;/p&gt;
 </description>
                 <pubDate>Fri, 17 Feb 2017 00:00:00 +0100</pubDate>
-                <link>lyns.world/blog/Autorenwahnsinn.html</link>
-                <guid isPermaLink="true">lyns.world/blog/Autorenwahnsinn.html</guid>
+                <link>http://localhost:4000/blog/Autorenwahnsinn.html</link>
+                <guid isPermaLink="true">http://localhost:4000/blog/Autorenwahnsinn.html</guid>
                 </item>
                 
             
@@ -414,16 +418,12 @@ begleiten wird.&lt;/p&gt;
       
     
         
-            
-      
-    
-        
       <item>
         <title>[Neue Story] Liam</title>
         <description>Kennt ihr das? Ein scheinbar normaler Mensch entdeckt an sich außergewöhnliche Fähigkeiten und stolpert dann versehentlich in eine andere Gesellschaft, trifft einen Begleiter, der ihn trainiert und erfährt von ihm, dass er eine besondere Aufgabe hat. In dieser Geschichte betrachten wir die andere Seite. Ein Magier trifft auf einen scheinbar normalen Menschen und beginnt ihn zu trainieren. Nicht unbedingt freiwillig.</description>
         <pubDate>Fri, 17 Feb 2017 00:00:00 +0100</pubDate>
-        <link>lyns.world/Liam.html</link>
-        <guid isPermaLink="true">lyns.world/Liam.html</guid>
+        <link>http://localhost:4000/Liam.html</link>
+        <guid isPermaLink="true">http://localhost:4000/Liam.html</guid>
         
         <category>Fantasy</category>
         
@@ -440,6 +440,28 @@ begleiten wird.&lt;/p&gt;
         
         
           
+          
+                    
+                    
+                    
+                <item>
+                <title>[Neues Kapitel] "Prolog" in Liam</title>
+                <description>&lt;h1 id=&quot;prolog&quot;&gt;&lt;span id=&quot;anchor&quot;&gt;&lt;/span&gt;Prolog&lt;/h1&gt;
+
+&lt;p&gt;Selbst jemand wie ich wusste, dass Teamwork bei solch einem Auftrag
+notwendig war und, dass dafür ebenfalls ein Treffen vorab unabdingbar
+war. Aber als ich den Raum betrat, wäre ich am liebsten wieder gegangen.
+Diese Kindsköpfe hatten mal wieder irgendeine Wette abgeschlossen und
+wenn ich hätte raten müssen, hätte ich auf etwas wie ‚wer sich zuerst
+den Hals bricht, hat verloren‘ getippt.&lt;/p&gt;
+
+</description>
+                <pubDate>Fri, 31 Mar 2017 00:00:00 +0200</pubDate>
+                <link>http://localhost:4000/liam/Prolog.html</link>
+                <guid isPermaLink="true">http://localhost:4000/liam/Prolog.html</guid>
+                </item>
+            
+        
           
                     
                     
@@ -482,30 +504,8 @@ eine Schule gesprengt und mehrere Personen leicht bis schwer verletzt.&lt;/p&gt;
 
 </description>
                 <pubDate>Tue, 28 Feb 2017 00:00:00 +0100</pubDate>
-                <link>lyns.world/liam/Neuer-Auftrag.html</link>
-                <guid isPermaLink="true">lyns.world/liam/Neuer-Auftrag.html</guid>
-                </item>
-            
-        
-          
-                    
-                    
-                    
-                <item>
-                <title>[Neues Kapitel] "Prolog" in Liam</title>
-                <description>&lt;h1 id=&quot;prolog&quot;&gt;&lt;span id=&quot;anchor&quot;&gt;&lt;/span&gt;Prolog&lt;/h1&gt;
-
-&lt;p&gt;Selbst jemand wie ich wusste, dass Teamwork bei solch einem Auftrag
-notwendig war und, dass dafür ebenfalls ein Treffen vorab unabdingbar
-war. Aber als ich den Raum betrat, wäre ich am liebsten wieder gegangen.
-Diese Kindsköpfe hatten mal wieder irgendeine Wette abgeschlossen und
-wenn ich hätte raten müssen, hätte ich auf etwas wie ‚wer sich zuerst
-den Hals bricht, hat verloren‘ getippt.&lt;/p&gt;
-
-</description>
-                <pubDate>Mon, 27 Feb 2017 00:00:00 +0100</pubDate>
-                <link>lyns.world/liam/Prolog.html</link>
-                <guid isPermaLink="true">lyns.world/liam/Prolog.html</guid>
+                <link>http://localhost:4000/liam/Neuer-Auftrag.html</link>
+                <guid isPermaLink="true">http://localhost:4000/liam/Neuer-Auftrag.html</guid>
                 </item>
             
         
@@ -529,8 +529,8 @@ den Hals bricht, hat verloren‘ getippt.&lt;/p&gt;
         <title>[Neue Story] Liam</title>
         <description>Kennt ihr das? Ein scheinbar normaler Mensch entdeckt an sich außergewöhnliche Fähigkeiten und stolpert dann versehentlich in eine andere Gesellschaft, trifft einen Begleiter, der ihn trainiert und erfährt von ihm, dass er eine besondere Aufgabe hat. In dieser Geschichte betrachten wir die andere Seite. Ein Magier trifft auf einen scheinbar normalen Menschen und beginnt ihn zu trainieren. Nicht unbedingt freiwillig.</description>
         <pubDate>Fri, 17 Feb 2017 00:00:00 +0100</pubDate>
-        <link>lyns.world/Liam-komplett.html</link>
-        <guid isPermaLink="true">lyns.world/Liam-komplett.html</guid>
+        <link>http://localhost:4000/Liam-komplett.html</link>
+        <guid isPermaLink="true">http://localhost:4000/Liam-komplett.html</guid>
         
         <category>Fantasy</category>
         
@@ -547,6 +547,28 @@ den Hals bricht, hat verloren‘ getippt.&lt;/p&gt;
         
         
           
+          
+                    
+                    
+                    
+                <item>
+                <title>[Neues Kapitel] "Prolog" in Liam</title>
+                <description>&lt;h1 id=&quot;prolog&quot;&gt;&lt;span id=&quot;anchor&quot;&gt;&lt;/span&gt;Prolog&lt;/h1&gt;
+
+&lt;p&gt;Selbst jemand wie ich wusste, dass Teamwork bei solch einem Auftrag
+notwendig war und, dass dafür ebenfalls ein Treffen vorab unabdingbar
+war. Aber als ich den Raum betrat, wäre ich am liebsten wieder gegangen.
+Diese Kindsköpfe hatten mal wieder irgendeine Wette abgeschlossen und
+wenn ich hätte raten müssen, hätte ich auf etwas wie ‚wer sich zuerst
+den Hals bricht, hat verloren‘ getippt.&lt;/p&gt;
+
+</description>
+                <pubDate>Fri, 31 Mar 2017 00:00:00 +0200</pubDate>
+                <link>http://localhost:4000/liam/Prolog.html</link>
+                <guid isPermaLink="true">http://localhost:4000/liam/Prolog.html</guid>
+                </item>
+            
+        
           
                     
                     
@@ -589,30 +611,8 @@ eine Schule gesprengt und mehrere Personen leicht bis schwer verletzt.&lt;/p&gt;
 
 </description>
                 <pubDate>Tue, 28 Feb 2017 00:00:00 +0100</pubDate>
-                <link>lyns.world/liam/Neuer-Auftrag.html</link>
-                <guid isPermaLink="true">lyns.world/liam/Neuer-Auftrag.html</guid>
-                </item>
-            
-        
-          
-                    
-                    
-                    
-                <item>
-                <title>[Neues Kapitel] "Prolog" in Liam</title>
-                <description>&lt;h1 id=&quot;prolog&quot;&gt;&lt;span id=&quot;anchor&quot;&gt;&lt;/span&gt;Prolog&lt;/h1&gt;
-
-&lt;p&gt;Selbst jemand wie ich wusste, dass Teamwork bei solch einem Auftrag
-notwendig war und, dass dafür ebenfalls ein Treffen vorab unabdingbar
-war. Aber als ich den Raum betrat, wäre ich am liebsten wieder gegangen.
-Diese Kindsköpfe hatten mal wieder irgendeine Wette abgeschlossen und
-wenn ich hätte raten müssen, hätte ich auf etwas wie ‚wer sich zuerst
-den Hals bricht, hat verloren‘ getippt.&lt;/p&gt;
-
-</description>
-                <pubDate>Mon, 27 Feb 2017 00:00:00 +0100</pubDate>
-                <link>lyns.world/liam/Prolog.html</link>
-                <guid isPermaLink="true">lyns.world/liam/Prolog.html</guid>
+                <link>http://localhost:4000/liam/Neuer-Auftrag.html</link>
+                <guid isPermaLink="true">http://localhost:4000/liam/Neuer-Auftrag.html</guid>
                 </item>
             
         
