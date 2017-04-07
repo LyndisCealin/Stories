@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
     <url>
-      <loc>http://lyns.world/liam/Prolog.html</loc>
+      <loc>http://localhost:4000/liam/Prolog.html</loc>
       
         <lastmod>2017-03-31T00:00:00+02:00</lastmod>
       
@@ -11,7 +11,7 @@
     </url>
   
     <url>
-      <loc>http://lyns.world/NachHause.html</loc>
+      <loc>http://localhost:4000/NachHause.html</loc>
       
         <lastmod>2017-03-24T00:00:00+01:00</lastmod>
       
@@ -20,7 +20,7 @@
     </url>
   
     <url>
-      <loc>http://lyns.world/nachhause/NachHause.html</loc>
+      <loc>http://localhost:4000/nachhause/NachHause.html</loc>
       
         <lastmod>2017-03-24T00:00:00+01:00</lastmod>
       
@@ -29,7 +29,7 @@
     </url>
   
     <url>
-      <loc>http://lyns.world/blog/Liam.html</loc>
+      <loc>http://localhost:4000/blog/Liam.html</loc>
       
         <lastmod>2017-03-10T00:00:00+01:00</lastmod>
       
@@ -38,7 +38,7 @@
     </url>
   
     <url>
-      <loc>http://lyns.world/blog/Foren-RPGs.html</loc>
+      <loc>http://localhost:4000/blog/Foren-RPGs.html</loc>
       
         <lastmod>2017-03-10T00:00:00+01:00</lastmod>
       
@@ -47,7 +47,7 @@
     </url>
   
     <url>
-      <loc>http://lyns.world/Blog.html</loc>
+      <loc>http://localhost:4000/Blog.html</loc>
       
         <lastmod>2017-03-01T00:00:00+01:00</lastmod>
       
@@ -56,7 +56,7 @@
     </url>
   
     <url>
-      <loc>http://lyns.world/liam/Neuer-Auftrag.html</loc>
+      <loc>http://localhost:4000/liam/Neuer-Auftrag.html</loc>
       
         <lastmod>2017-02-28T00:00:00+01:00</lastmod>
       
@@ -65,7 +65,7 @@
     </url>
   
     <url>
-      <loc>http://lyns.world/Liam.html</loc>
+      <loc>http://localhost:4000/Liam.html</loc>
       
         <lastmod>2017-02-17T00:00:00+01:00</lastmod>
       
@@ -74,7 +74,7 @@
     </url>
   
     <url>
-      <loc>http://lyns.world/Liam-komplett.html</loc>
+      <loc>http://localhost:4000/Liam-komplett.html</loc>
       
         <lastmod>2017-02-17T00:00:00+01:00</lastmod>
       
@@ -83,7 +83,7 @@
     </url>
   
     <url>
-      <loc>http://lyns.world/blog/Autorenwahnsinn.html</loc>
+      <loc>http://localhost:4000/blog/Autorenwahnsinn.html</loc>
       
         <lastmod>2017-02-17T00:00:00+01:00</lastmod>
       
