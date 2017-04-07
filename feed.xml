@@ -3,10 +3,10 @@
   <channel>
     <title>Lyns Welt</title>
     <description>Hier finden sich Fantasy, Romantik und Action Stories und manchmal sogar Sci-Fi oder Krimis. Der zugehörige Blog liefert Hintergrundinformationen, Fun Facts und sonstige Erklärungen.</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 07 Apr 2017 22:47:37 +0200</pubDate>
-    <lastBuildDate>Fri, 07 Apr 2017 22:47:37 +0200</lastBuildDate>
+    <link>http://lyns.world/</link>
+    <atom:link href="http://lyns.world/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Fri, 07 Apr 2017 22:50:21 +0200</pubDate>
+    <lastBuildDate>Fri, 07 Apr 2017 22:50:21 +0200</lastBuildDate>
     <generator>Jekyll v3.4.0</generator>
     
         
@@ -18,8 +18,8 @@
         <title>[Neue Story] Nach Hause</title>
         <description>Es ist nicht einfach seinen Partner das erste mal mit nach Hause zu nehmen... besonders nicht, wenn man die erste ist, die das tut und der Partner etwas aus dem fällt, was als 'normal' bezeichnet wird.</description>
         <pubDate>Fri, 24 Mar 2017 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/NachHause.html</link>
-        <guid isPermaLink="true">http://localhost:4000/NachHause.html</guid>
+        <link>http://lyns.world/NachHause.html</link>
+        <guid isPermaLink="true">http://lyns.world/NachHause.html</guid>
         
         <category>Sci-Fi</category>
         
@@ -117,14 +117,14 @@
                 <title>[Neuer Blogpost] "Liam - Hintergründe"</title>
                 <description>&lt;h2 id=&quot;die-geschichte-hinter-der-story&quot;&gt;Die Geschichte hinter der Story&lt;/h2&gt;
 
-&lt;p&gt;Die Story &lt;a href=&quot;http://localhost:4000/Liam.html&quot;&gt;Liam&lt;/a&gt; ist in einem Foren-RPG entstanden und auch wenn die Welt und die meisten Charaktere aus meiner Feder stammen, gehört mir ein Charakter nicht: Das ist Joel.
+&lt;p&gt;Die Story &lt;a href=&quot;http://lyns.world/Liam.html&quot;&gt;Liam&lt;/a&gt; ist in einem Foren-RPG entstanden und auch wenn die Welt und die meisten Charaktere aus meiner Feder stammen, gehört mir ein Charakter nicht: Das ist Joel.
 Joel ist geistiges Eigentum meiner Playpartnerin und auch wenn ich die Erlaubnis und die volle Verfügung über ihn habe, will ich das hier dennoch erwähnen. Es ist mir wichtig, dass man weiß, was meiner Fantasie entspringt und was nicht.&lt;/p&gt;
 
 &lt;p&gt;Foren-RPGs in Stories umzuschreiben ist nicht einfach, weshalb nicht 1 zu 1 alles übernommen werden wird, was Joel ausmacht.
 Das kommt hauptsächlich daher, weil meine Playpartnerin und ich uns nicht stundenlang vorher zusammensetzen und unsere Charaktere bis ins Detail ausarbeiten. Zu oft kommen sonst Situationen auf, wo solche Vorüberlegungen gar nicht mehr funktionieren.
 RPG schreiben hat viel mit Spontanität zu tun, denn man kann nie wissen, was seinem Playpartner als nächstes einfällt, weshalb Planungen meistens sowieso hinfällig werden.
 Das kann so weit gehen, dass ganze Storystränge, die geplant waren, plötzlich nicht mehr funktionieren und es macht einfach viel mehr Spaß die Story anzupassen, statt die Charaktere zu verbiegen.
-Planung in einem RPG macht also nur wenig Sinn. (mehr dazu in &lt;a href=&quot;http://localhost:4000/blog/Foren-RPGs.html&quot;&gt;Foren-RPGs&lt;/a&gt;)&lt;/p&gt;
+Planung in einem RPG macht also nur wenig Sinn. (mehr dazu in &lt;a href=&quot;http://lyns.world/blog/Foren-RPGs.html&quot;&gt;Foren-RPGs&lt;/a&gt;)&lt;/p&gt;
 
 &lt;p&gt;Die Grundidee von ‘Liam’ war eigentlich ganz simpel: Eine Boys Love Story in einer modernen Welt mit einer versteckten Magier Gesellschaft. Wir wählten das Land Japan, weil wir uns dort einigermaßen auskennen und es etwas exotischer ist als Deutschland.
 Joel sollte ein Charakter sein, der magische Fähigkeiten hat, aber bisher nichts von der magischen Welt weiß und seine Fähigkeit sollte etwas besonderes sein. Außerdem sollte er große Probleme mit der Fähigkeit haben, wie groß, war meiner Playpartnerin überlassen. Die Fähigkeit musste außerdem zu irgendetwas gut sein können, damit mein Charakter (Liam) Interesse an ihr bekam. Irgendwie muss man die beiden Charaktere ja auf einen Fleck bekommen.
@@ -171,8 +171,8 @@ Jetzt kann meine Playpartnerin und auch ihr ganz einfach mitverfolgen, was ich s
 &lt;p&gt;Viel Spaß dabei!&lt;/p&gt;
 </description>
                 <pubDate>Fri, 10 Mar 2017 00:00:00 +0100</pubDate>
-                <link>http://localhost:4000/blog/Liam.html</link>
-                <guid isPermaLink="true">http://localhost:4000/blog/Liam.html</guid>
+                <link>http://lyns.world/blog/Liam.html</link>
+                <guid isPermaLink="true">http://lyns.world/blog/Liam.html</guid>
                 </item>
                 
             
@@ -191,7 +191,7 @@ Jetzt kann meine Playpartnerin und auch ihr ganz einfach mitverfolgen, was ich s
 &lt;p&gt;Es gibt dafür keine festen Regeln, aber ein paar ungeschriebene, an die sich meistens gehalten wird, wie z.B. den Charakteren der anderen Spieler die Möglichkeit zu geben zu reagieren und fremden Charakteren keine Aktionen vorzuschreiben.
 Natürlich gibt es da bei jedem Einzelnen eigene Vorlieben und andere Regelsätze, die dann abgestimmt werden müssen. Unter anderem auch deshalb kann es sehr schwer sein, einen sogenannten Playpartner zu finden, mit dem es einfach funktioniert und mit dem es nicht anstrengend ist, ein RPG zu schreiben, sondern einfach nur Spaß macht.&lt;/p&gt;
 
-&lt;p&gt;RPGs kann man zu zweit oder mit mehr Leuten spielen. Es gibt da keine Begrenzung. Da es aber schwer ist mehrere Leute zu synchronisieren, ohne, dass der ein oder andere zeitmäßig nicht hinter her kommt und andere sich langweilen, weil sie ständig auf neue Beiträge (Posts oder Postings) warten müssen, bevorzuge ich persönlich RPGs mit nur einem Partner. Dabei werden meist von beiden Spielern im Laufe der Zeit mehrere Rollen übernommen. Erfordert es die Storyline, kann es aber auch schonmal passieren, dass einer eine Rolle übernimmt und der andere alle anderen. (Wie bei &lt;a href=&quot;http://localhost:4000/Liam.html&quot;&gt;Liam&lt;/a&gt; ).&lt;/p&gt;
+&lt;p&gt;RPGs kann man zu zweit oder mit mehr Leuten spielen. Es gibt da keine Begrenzung. Da es aber schwer ist mehrere Leute zu synchronisieren, ohne, dass der ein oder andere zeitmäßig nicht hinter her kommt und andere sich langweilen, weil sie ständig auf neue Beiträge (Posts oder Postings) warten müssen, bevorzuge ich persönlich RPGs mit nur einem Partner. Dabei werden meist von beiden Spielern im Laufe der Zeit mehrere Rollen übernommen. Erfordert es die Storyline, kann es aber auch schonmal passieren, dass einer eine Rolle übernimmt und der andere alle anderen. (Wie bei &lt;a href=&quot;http://lyns.world/Liam.html&quot;&gt;Liam&lt;/a&gt; ).&lt;/p&gt;
 
 &lt;p&gt;Es gibt zwei Stile, in denen hauptsächlich geschrieben wird.&lt;/p&gt;
 
@@ -266,12 +266,12 @@ Hallo Jain-san. Schön, dass Sie Zeit hatten. Bitte, treten Sie ein.&lt;br /&gt;
 
 &lt;p&gt;Wie man vielleicht sieht liegen die Informationen sehr kompakt und übersichtlich vor. Zumindest empfinde ich das so. Es ist für mich einfach damit zu arbeiten, wenn man eine Story daraus machen will. Umschreiben muss man beides, damit es funktioniert, der Strenchen Stil macht das für mich übersichtlicher.&lt;/p&gt;
 
-&lt;p&gt;Mehr gibt es nicht zu wissen. Wenn euch interessiert, wie man ein RPG plant, schaut bei &lt;a href=&quot;http://localhost:4000/blog/Liam.html&quot;&gt;Liam - Hintergründe&lt;/a&gt; vorbei, da gehe ich unter anderem auch darauf ein.&lt;/p&gt;
+&lt;p&gt;Mehr gibt es nicht zu wissen. Wenn euch interessiert, wie man ein RPG plant, schaut bei &lt;a href=&quot;http://lyns.world/blog/Liam.html&quot;&gt;Liam - Hintergründe&lt;/a&gt; vorbei, da gehe ich unter anderem auch darauf ein.&lt;/p&gt;
 
 </description>
                 <pubDate>Fri, 10 Mar 2017 00:00:00 +0100</pubDate>
-                <link>http://localhost:4000/blog/Foren-RPGs.html</link>
-                <guid isPermaLink="true">http://localhost:4000/blog/Foren-RPGs.html</guid>
+                <link>http://lyns.world/blog/Foren-RPGs.html</link>
+                <guid isPermaLink="true">http://lyns.world/blog/Foren-RPGs.html</guid>
                 </item>
                 
             
@@ -403,8 +403,8 @@ letztendlich ein tiefes Band geknüpft, das mich den Rest meines Lebens
 begleiten wird.&lt;/p&gt;
 </description>
                 <pubDate>Fri, 17 Feb 2017 00:00:00 +0100</pubDate>
-                <link>http://localhost:4000/blog/Autorenwahnsinn.html</link>
-                <guid isPermaLink="true">http://localhost:4000/blog/Autorenwahnsinn.html</guid>
+                <link>http://lyns.world/blog/Autorenwahnsinn.html</link>
+                <guid isPermaLink="true">http://lyns.world/blog/Autorenwahnsinn.html</guid>
                 </item>
                 
             
@@ -422,8 +422,8 @@ begleiten wird.&lt;/p&gt;
         <title>[Neue Story] Liam</title>
         <description>Kennt ihr das? Ein scheinbar normaler Mensch entdeckt an sich außergewöhnliche Fähigkeiten und stolpert dann versehentlich in eine andere Gesellschaft, trifft einen Begleiter, der ihn trainiert und erfährt von ihm, dass er eine besondere Aufgabe hat. In dieser Geschichte betrachten wir die andere Seite. Ein Magier trifft auf einen scheinbar normalen Menschen und beginnt ihn zu trainieren. Nicht unbedingt freiwillig.</description>
         <pubDate>Fri, 17 Feb 2017 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/Liam.html</link>
-        <guid isPermaLink="true">http://localhost:4000/Liam.html</guid>
+        <link>http://lyns.world/Liam.html</link>
+        <guid isPermaLink="true">http://lyns.world/Liam.html</guid>
         
         <category>Fantasy</category>
         
@@ -458,8 +458,8 @@ den Hals bricht, hat verloren‘ getippt.&lt;/p&gt;
 
 </description>
                 <pubDate>Fri, 31 Mar 2017 00:00:00 +0200</pubDate>
-                <link>http://localhost:4000/liam/Prolog.html</link>
-                <guid isPermaLink="true">http://localhost:4000/liam/Prolog.html</guid>
+                <link>http://lyns.world/liam/Prolog.html</link>
+                <guid isPermaLink="true">http://lyns.world/liam/Prolog.html</guid>
                 </item>
                 
             
@@ -507,8 +507,8 @@ eine Schule gesprengt und mehrere Personen leicht bis schwer verletzt.&lt;/p&gt;
 
 </description>
                 <pubDate>Tue, 28 Feb 2017 00:00:00 +0100</pubDate>
-                <link>http://localhost:4000/liam/Neuer-Auftrag.html</link>
-                <guid isPermaLink="true">http://localhost:4000/liam/Neuer-Auftrag.html</guid>
+                <link>http://lyns.world/liam/Neuer-Auftrag.html</link>
+                <guid isPermaLink="true">http://lyns.world/liam/Neuer-Auftrag.html</guid>
                 </item>
                 
             
@@ -533,8 +533,8 @@ eine Schule gesprengt und mehrere Personen leicht bis schwer verletzt.&lt;/p&gt;
         <title>[Neue Story] Liam</title>
         <description>Kennt ihr das? Ein scheinbar normaler Mensch entdeckt an sich außergewöhnliche Fähigkeiten und stolpert dann versehentlich in eine andere Gesellschaft, trifft einen Begleiter, der ihn trainiert und erfährt von ihm, dass er eine besondere Aufgabe hat. In dieser Geschichte betrachten wir die andere Seite. Ein Magier trifft auf einen scheinbar normalen Menschen und beginnt ihn zu trainieren. Nicht unbedingt freiwillig.</description>
         <pubDate>Fri, 17 Feb 2017 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/Liam-komplett.html</link>
-        <guid isPermaLink="true">http://localhost:4000/Liam-komplett.html</guid>
+        <link>http://lyns.world/Liam-komplett.html</link>
+        <guid isPermaLink="true">http://lyns.world/Liam-komplett.html</guid>
         
         <category>Fantasy</category>
         
