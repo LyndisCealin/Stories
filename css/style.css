@@ -59,6 +59,11 @@ ul {
       margin-left: -10%;
       width: 120%; } }
 
+@media (max-width: 500px) {
+  .post-menu {
+    display: inherit !important;
+    text-align: center; } }
+
 .menu-button {
   color: #FFFFFF;
   font-size: 24px;
