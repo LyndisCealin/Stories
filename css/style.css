@@ -13,7 +13,7 @@ body {
   font-family: 'Open Sans', sans-serif;
   font-weight: 300;
   background-color: #2D2D29;
-  color: #FFFFFF;
+  color: #DFECE6;
   font-size: 16px;
   height: 100%;
   width: 100%; }
@@ -55,7 +55,7 @@ ul {
   width: 100%; }
   @media (min-width: 768px) {
     .header {
-      font-size: 62px;
+      font-size: 45px;
       margin-left: -10%;
       width: 120%; } }
 
@@ -92,7 +92,8 @@ ul {
 #my-menu a:hover {
   color: #3CA2A2; }
 #my-menu .pages .fa {
-  margin-right: 10px; }
+  margin-right: 10px;
+  color: #3CA2A2 !important; }
 
 .links {
   margin-top: 50px;
@@ -110,6 +111,8 @@ ul {
     transition: 0.3s; }
   .links .fa-twitter:hover {
     color: #6dabda; }
+  .links .fa-patreon-alt:hover {
+    color: orange; }
   .links .fa-linkedin:hover {
     color: #2b77b1; }
   .links .fa-xing:hover {
@@ -155,7 +158,7 @@ ul {
     border-bottom: 10px solid #3CA2A2; }
   .index .author-header {
     font-family: 'Montserrat', sans-serif;
-    color: #3CA2A2;
+    color: #FFFFF;
     margin-top: 0px;
     padding-top: 15px;
     font-size: 30px; }
@@ -189,7 +192,7 @@ ul {
     font-size: 20px; }
     .index .articles h2 {
       margin-bottom: 30px;
-      color: #3CA2A2;
+      color: #FFFFF;
       font-size: 26px; }
     .index .articles ul {
       padding: 0px; }
@@ -197,7 +200,7 @@ ul {
         margin-bottom: 20px;
         font-size: 24px; }
         .index .articles ul li a:hover {
-          color: #969696; }
+          color: #215A6D; }
         .index .articles ul li small {
           font-size: 14px;
           margin-top: -10px;
@@ -206,15 +209,15 @@ ul {
       .index .articles ul li:nth-last-of-type(1) small {
         font-size: 16px; }
     .index .articles a, .index .articles a:active {
-      color: #FFFFFF;
+      color: #3CA2A2;
       white-space: nowrap; }
     .index .articles a:hover {
-      color: #3CA2A2; }
+      color: #215A6D; }
   .index .copyright {
     margin-top: 50px;
     text-align: center; }
   .index .links a, .index .links a:active {
-    color: #FFFFFF; }
+    color: #3CA2A2; }
   .index .menu {
     margin-top: 250px;
     margin-bottom: 20px;
@@ -224,7 +227,7 @@ ul {
     .index .menu a, .index .menu a:active {
       color: #FFFFFF; }
     .index .menu a:hover {
-      color: #3CA2A2; }
+      color: #215A6D; }
     .index .menu ul {
       margin-bottom: 30px;
       padding-left: 10px; }
@@ -277,7 +280,7 @@ h1 {
   max-height: 100%; }
   .single h1, .single h2, .single h3, .single h4, .single h5, .single h6 {
     font-family: 'Montserrat', sans-serif;
-    margin-bottom: 10px; }
+    margin-bottom: 20px; }
   .single h2 {
     font-size: 36px; }
   .single h3 {
@@ -286,13 +289,13 @@ h1 {
     margin-bottom: 10px; }
     @media (min-width: 768px) {
       .single p {
-        margin-bottom: 40px; } }
+        margin-bottom: 20px; } }
   .single .menu {
     background-color: #215A6D; }
     .single .menu a, .single .menu a:active {
       color: #FFFFFF; }
     .single .menu a:hover {
-      color: #3CA2A2; }
+      color: #215A6D; }
     .single .menu h4 {
       margin-top: 20px; }
     .single .menu .share {
@@ -354,7 +357,7 @@ h1 {
       padding-bottom: 10px; }
       @media (min-width: 768px) {
         .single .article .content {
-          font-size: 24px;
+          font-size: 20px;
           padding-left: 30px;
           padding-right: 30px;
           padding-top: 40px;
@@ -448,7 +451,7 @@ h1 {
         .single .article .content .tags a, .single .article .content .tags a:active {
           color: #FFFFFF; }
         .single .article .content .tags a:hover {
-          color: #3CA2A2; }
+          color: #215A6D; }
       .single .article .content .share {
         margin-top: 20px;
         margin-bottom: 10px;
@@ -483,7 +486,7 @@ h1 {
     .related .title a {
       color: #FFFFFF; }
     .related .title a:hover {
-      color: #DFECE6; }
+      color: #215A6D; }
   .related p {
     margin-bottom: 0px; }
   .related .previous-next {
@@ -491,7 +494,7 @@ h1 {
     .related .previous-next a {
       color: #FFFFFF; }
     .related .previous-next a:hover {
-      color: #DFECE6; }
+      color: #215A6D; }
   .related .next {
     float: right;
     text-align: right; }
