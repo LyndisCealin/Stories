@@ -1,16 +1,8 @@
-Copyright (C) 2014  Jacob Tomlinson
+Copyright (C) 2014  Jacob Tomlinson and (for the changes made) Lyndis Cealin
 
-The contents of this website, which consists of the files in
- * _config.yml
- * _data
- * _drafts
- * _posts
+The original Theme can be found here: https://github.com/jacobtomlinson/carte-noire
 
-are copyrighted and sole property of its author Jacob Tomlinson. It may not be
-used, modified, syndicated or distributed without expressed permission from
-the author.
-
-However the website theme built using jekyll is Open Source under the following
+The website theme built using jekyll is Open Source under the following
 GPLv3 license.
 
 
@@ -24,5 +16,4 @@ but WITHOUT ANY WARRANTY; without even the implied warranty of
 MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
 GNU General Public License for more details.
 
-You should have received a copy of the GNU General Public License
-along with this program.  If not, see <http://www.gnu.org/licenses/>.
+See also <http://www.gnu.org/licenses/>.
