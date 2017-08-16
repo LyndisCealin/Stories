@@ -62,7 +62,7 @@ ul {
 @media (max-width: 500px) {
   .post-menu {
     display: inherit !important;
-    text-align: center; } }
+    text-align: center !important; } }
 
 .menu-button {
   color: #FFFFFF;
