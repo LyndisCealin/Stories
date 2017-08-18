@@ -64,6 +64,11 @@ ul {
     display: inherit !important;
     text-align: center !important; } }
 
+@media (max-width: 514px) {
+  .blog-menu {
+    display: inherit !important;
+    text-align: center !important; } }
+
 .menu-button {
   color: #FFFFFF;
   font-size: 24px;
@@ -287,7 +292,8 @@ h1 {
     font-family: 'Montserrat', sans-serif;
     margin-bottom: 20px; }
   .single h2 {
-    font-size: 36px; }
+    font-size: 30px;
+    font-weight: 400; }
   .single h3 {
     font-size: 28px; }
   .single p {
@@ -389,16 +395,18 @@ h1 {
         color: white;
         box-sizing: content-box;
         border: none;
-        font-size: 28px; }
-        @media (min-width: 768px) {
-          .single .article .content blockquote {
-            margin-left: -30px;
-            padding-left: 45px;
-            padding-right: 15px; } }
+        font-size: 18px; }
         .single .article .content blockquote p {
           margin: 0;
           padding: 15px;
           z-index: 0; }
+        .single .article .content blockquote h1, .single .article .content blockquote h2, .single .article .content blockquote h3:before {
+          content: none; }
+        .single .article .content blockquote h3 {
+          font-size: 25px; }
+        .single .article .content blockquote h1, .single .article .content blockquote h2, .single .article .content blockquote h3 {
+          margin-bottom: 0px;
+          margin-top: 25px; }
         .single .article .content blockquote :before {
           font-family: "Times New Roman";
           color: #969696;

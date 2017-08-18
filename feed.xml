@@ -5,8 +5,8 @@
     <description>Hier finden sich Fantasy, Romantik und Action Stories und manchmal sogar Sci-Fi oder Krimis. Der zugehörige Blog liefert Hintergrundinformationen, Fun Facts und sonstige Erklärungen.</description>
     <link>http://lyns.world/</link>
     <atom:link href="http://lyns.world/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 17 Aug 2017 00:33:53 +0200</pubDate>
-    <lastBuildDate>Thu, 17 Aug 2017 00:33:53 +0200</lastBuildDate>
+    <pubDate>Sat, 19 Aug 2017 00:49:44 +0200</pubDate>
+    <lastBuildDate>Sat, 19 Aug 2017 00:49:44 +0200</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
     
         
@@ -201,8 +201,8 @@ Natürlich gibt es da bei jedem Einzelnen eigene Vorlieben und andere Regelsätz
 Da Beispiele mehr sagen als tausend Worte hier ein Ausschnitt aus dem RPG ‘Merkwürdiger Fremder’, was Grundlage für „Liam“ ist (Achtung, kleiner Spoiler!):&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;&lt;strong&gt;Liam&lt;/strong&gt;&lt;br /&gt;
-Es hatte ihn etwas Nerven gekostet, tatsächlich einfach still zu bleiben und abzuwarten. Er war normalerweise ein Mann der Taten und Geduld war nur dann seine Tugend, wenn es wirklich sein musste.&lt;br /&gt;
+  &lt;h3 id=&quot;liam&quot;&gt;Liam&lt;/h3&gt;
+  &lt;p&gt;Es hatte ihn etwas Nerven gekostet, tatsächlich einfach still zu bleiben und abzuwarten. Er war normalerweise ein Mann der Taten und Geduld war nur dann seine Tugend, wenn es wirklich sein musste.&lt;br /&gt;
 Das Klingeln an seiner Tür war das nun endlich das Zeichen, dass das Warten sich ausgezahlt hatte.&lt;br /&gt;
 Wie eine Fruchtfliege, die von Zuckerwasse angezogen wurde, kam dieser dumme Mensch zu ihm. Andererseits konnte er es ihm auch nicht verübeln. In seiner Situation hätte wohl jeder nach jedem Strohhalm gegriffen, der ihm dargbeoten wurde.&lt;br /&gt;
 Er warf noch einen schnellen Blick in den Spiegel. Das kämpfen mit seiner Kraft hinterließ einige Tage lang Spuren, die er mit einem Zauber überdecken musste, wenn er nicht aufallen wollte, aber es war alles, wie es sein sollte.&lt;br /&gt;
@@ -212,8 +212,8 @@ Er trat beiseite um ihn hereinzulassen.&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;&lt;strong&gt;Joel&lt;/strong&gt;&lt;br /&gt;
-“Danke”, murmelte Joel und mied den Augenkontakt, indem er den Holzboden musterte.&lt;br /&gt;
+  &lt;h3 id=&quot;joel&quot;&gt;Joel&lt;/h3&gt;
+  &lt;p&gt;“Danke”, murmelte Joel und mied den Augenkontakt, indem er den Holzboden musterte.&lt;br /&gt;
 Mit eingezogenem Kopf ging er an Ren vorbei. Er wirkte wie ein eingeschüchtertes Reh, dem man die Schrotflinte an die Stirn hielt. Doch eigentlich fühlte er sich nur verdammt unwohl. Er hasste es, mit anderen Menschen unter einem Dach zu wohnen. Aber seine finanzielle Lage zwang ihn immer wieder in diese äußerst präkere Situation. Er erinnerte sich nur ungern an seinen letzten Mitbewohner. &lt;br /&gt;
 Schnell schüttelte er den Kopf und hob den Blick. Die blauen Augen waren unnatürlich hell, als brächte sie etwas zum Leuchten. &lt;br /&gt;
 “Ist das das Zimmer?”, er deutete mit dem Daumen über die Schulter.&lt;/p&gt;
@@ -242,8 +242,8 @@ Es gibt 3 verschiedene Arten, die in einem Post verwendet werden können:&lt;br 
 &lt;p&gt;Klingt komplizierter als es ist. Hier den Ersten der beiden obigen Posts als Sternchen-Stil verfasst:&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;&lt;strong&gt;Liam&lt;/strong&gt;&lt;br /&gt;
-*es mich Nerven gekostet hat, einfach abzuwarten*&lt;br /&gt;
+  &lt;h3 id=&quot;liam-1&quot;&gt;Liam&lt;/h3&gt;
+  &lt;p&gt;*es mich Nerven gekostet hat, einfach abzuwarten*&lt;br /&gt;
 *dazu nicht wirklich der Typ bin*&lt;br /&gt;
 *das Klingeln der Tür mich dann endlich erlöst*&lt;br /&gt;
 //Wie eine Fruchtfliege zum Zuckerwasser//&lt;br /&gt;
