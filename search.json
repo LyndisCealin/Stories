@@ -1,6 +1,14 @@
 [
   
   {
+    "title"    : "FAQ",
+    "category" : "",
+    "tags"     : "",
+    "url"      : "/FAQ.html",
+    "date"     : "2017-08-19 00:00:00 +0200"
+    } ,
+    
+  {
     "title"    : "Prolog",
     "category" : "",
     "tags"     : "1. Entwurf, fertig",
@@ -13,6 +21,14 @@
     "category" : "",
     "tags"     : "Sci-Fi, 3. Person, Hetero, Slice of Life",
     "url"      : "/NachHause.html",
+    "date"     : "2017-03-24 00:00:00 +0100"
+    } ,
+    
+  {
+    "title"    : "Nach Hause",
+    "category" : "",
+    "tags"     : "Sci-Fi, 3. Person, Hetero, Slice of Life",
+    "url"      : "/NachHause-feed.xml",
     "date"     : "2017-03-24 00:00:00 +0100"
     } ,
     
@@ -49,6 +65,14 @@
     } ,
     
   {
+    "title"    : "Blog",
+    "category" : "",
+    "tags"     : "",
+    "url"      : "/Blog-feed.xml",
+    "date"     : "2017-03-01 00:00:00 +0100"
+    } ,
+    
+  {
     "title"    : "Neuer Auftrag",
     "category" : "",
     "tags"     : "1. Entwurf, unfertig",
@@ -69,6 +93,14 @@
     "category" : "",
     "tags"     : "Fantasy, Boys Love, Action, Ich-Perspektive",
     "url"      : "/Liam-komplett.html",
+    "date"     : "2017-02-17 00:00:00 +0100"
+    } ,
+    
+  {
+    "title"    : "Liam",
+    "category" : "",
+    "tags"     : "Fantasy, Boys Love, Action, Ich-Perspektive",
+    "url"      : "/Liam-feed.xml",
     "date"     : "2017-02-17 00:00:00 +0100"
     } ,
     

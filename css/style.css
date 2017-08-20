@@ -1,7 +1,6 @@
 @charset "UTF-8";
 @import url(openSans.css);
 @import url(montserrat.css);
-@import url(anonymousPro.css);
 /* Colours */
 /* Responsive sizes */
 /* Globals */
@@ -123,6 +122,10 @@ ul {
     color: #6dabda; }
   .links .fa-patreon-alt:hover {
     color: orange; }
+  .links .fa-patreon:hover {
+    color: #FFFFFF;
+    background-color: #f96753;
+    border-radius: 100%; }
   .links .fa-linkedin:hover {
     color: #2b77b1; }
   .links .fa-xing:hover {
@@ -208,7 +211,7 @@ ul {
       padding: 0px; }
       .index .articles ul li {
         margin-bottom: 20px;
-        font-size: 24px; }
+        font-size: 18px; }
         .index .articles ul li a:hover {
           color: #215A6D; }
         .index .articles ul li small {
@@ -296,6 +299,8 @@ h1 {
     font-weight: 400; }
   .single h3 {
     font-size: 28px; }
+  .single h4 {
+    font-size: 22px; }
   .single p {
     margin-bottom: 10px; }
     @media (min-width: 768px) {
@@ -432,7 +437,6 @@ h1 {
             padding-right: 60px; } }
         .single .article .content figure.highlight pre, .single .article .content div.highlighter-rouge pre {
           width: 100%;
-          font-family: 'Anonymous Pro';
           background-color: #21211E;
           color: #FFFFFF;
           font-size: 12px;
@@ -452,7 +456,6 @@ h1 {
               margin-bottom: 40px;
               font-size: 15px; } }
       .single .article .content p code, .single .article .content ul code, .single .article .content ol code {
-        font-family: 'Anonymous Pro';
         font-size: 15px;
         background-color: #21211E;
         color: #FFFFFF;
