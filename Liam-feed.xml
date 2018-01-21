@@ -3,23 +3,30 @@
   <channel>
     <title>Lyns Welt - Liam</title>
     <description>Kennt ihr das? Ein scheinbar normaler Mensch entdeckt an sich außergewöhnliche Fähigkeiten und stolpert dann versehentlich in eine andere Gesellschaft, trifft einen Begleiter, der ihn trainiert und erfährt von ihm, dass er eine besondere Aufgabe hat. In dieser Geschichte betrachten wir die andere Seite. Ein Magier trifft auf einen scheinbar normalen Menschen und beginnt ihn zu trainieren. Nicht unbedingt freiwillig.</description>
-    <link>http://lyns.world/Liam-feed.xml</link>
-    <atom:link href="http://lyns.worldLiam-rss.html" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 20 Aug 2017 20:50:58 +0200</pubDate>
-    <lastBuildDate>Sun, 20 Aug 2017 20:50:58 +0200</lastBuildDate>
-    <generator>Jekyll v3.1.6</generator>
+    <link>http://localhost:4000/Liam-feed.xml</link>
+    <atom:link href="http://localhost:4000Liam-feed.html" rel="self" type="application/rss+xml" />
+    <pubDate>Sun, 21 Jan 2018 13:30:11 +0100</pubDate>
+    <lastBuildDate>Sun, 21 Jan 2018 13:30:11 +0100</lastBuildDate>
+    <generator>Jekyll v3.7.0</generator>
     
     
     
-                    
-        
+    
+            
     
     
-                    
-                    
-                    
+    
+    
+            
+    
+    
+    
+    
+            
+                
+                   
                 <item>
-                <title>[Neues Kapitel] "Prolog" in Liam</title>
+                <title>  [Neues Kapitel]   "Prolog" in Liam</title>
                 <description>&lt;h1 id=&quot;prolog&quot;&gt;Prolog&lt;/h1&gt;
 
 &lt;p&gt;Selbst jemand wie ich wusste, dass Teamwork bei solch einem Auftrag
@@ -31,47 +38,56 @@ den Hals bricht, hat verloren‘ getippt.&lt;/p&gt;
 
 </description>
                 <pubDate>Fri, 31 Mar 2017 00:00:00 +0200</pubDate>
-                <link>http://lyns.world/liam/Prolog.html</link>
-                <guid isPermaLink="true">http://lyns.world/liam/Prolog.html</guid>
+                <link>http://localhost:4000/liam/Prolog.html</link>
+                <guid isPermaLink="true">http://localhost:4000/liam/Prolog.html</guid>
                 </item>
-                
+                    
+                 
             
-        
     
     
-                    
-        
     
     
-                    
-        
+            
     
     
-                    
-        
     
     
-                    
-        
+            
     
     
-                    
-        
     
     
-                    
-        
+            
     
     
-                    
-        
     
     
-                    
-                    
-                    
+            
+    
+    
+    
+    
+            
+    
+    
+    
+    
+            
+    
+    
+    
+    
+            
+    
+    
+    
+    
+            
+                
+                   
                 <item>
-                <title>[Neues Kapitel] "Neuer Auftrag" in Liam</title>
+                <title>  [Neues Kapitel]   "Neuer Auftrag" in Liam</title>
                 <description>&lt;h1 id=&quot;neuer-auftrag&quot;&gt;Neuer Auftrag&lt;/h1&gt;
 
 &lt;p&gt;Geduld war nur dann meine Tugend, wenn ich keine andere Wahl hatte, aber als es an der Tür klingelte, wusste ich, dass sich das Warten ausgezahlt hatte. 
@@ -152,28 +168,33 @@ Mit zwei Tassen trat ich an den Tisch, auf dem auch schon die Papiere lagen und 
 &lt;p&gt;“Dann ist es Ihnen sicherlich auch lieber, wenn wir bei dem ‘Sie’ bleiben?”&lt;/p&gt;
 </description>
                 <pubDate>Tue, 28 Feb 2017 00:00:00 +0100</pubDate>
-                <link>http://lyns.world/liam/Neuer-Auftrag.html</link>
-                <guid isPermaLink="true">http://lyns.world/liam/Neuer-Auftrag.html</guid>
+                <link>http://localhost:4000/liam/Neuer-Auftrag.html</link>
+                <guid isPermaLink="true">http://localhost:4000/liam/Neuer-Auftrag.html</guid>
                 </item>
-                
+                    
+                 
             
-        
     
     
-                    
-        
     
     
-                    
-        
+            
     
     
-                    
-        
     
     
-                    
-        
+            
+    
+    
+    
+    
+            
+    
+    
+    
+    
+            
+    
         
            
         

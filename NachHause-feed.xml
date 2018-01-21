@@ -2,36 +2,46 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lyns Welt - Nach Hause</title>
-    <description>Es ist nicht einfach seinen Partner das erste mal mit nach Hause zu nehmen... besonders nicht, wenn man die erste ist, die das tut und der Partner etwas aus dem fällt, was als &#39;normal&#39; bezeichnet wird.</description>
-    <link>http://lyns.world/NachHause-feed.xml</link>
-    <atom:link href="http://lyns.worldNach Hause-rss.html" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 20 Aug 2017 20:50:58 +0200</pubDate>
-    <lastBuildDate>Sun, 20 Aug 2017 20:50:58 +0200</lastBuildDate>
-    <generator>Jekyll v3.1.6</generator>
+    <description>Es ist nicht einfach seinen Partner das erste mal mit nach Hause zu nehmen... besonders nicht, wenn man die erste ist, die das tut und der Partner etwas aus dem fällt, was als 'normal' bezeichnet wird.</description>
+    <link>http://localhost:4000/NachHause-feed.xml</link>
+    <atom:link href="http://localhost:4000Nach Hause-feed.html" rel="self" type="application/rss+xml" />
+    <pubDate>Sun, 21 Jan 2018 13:30:11 +0100</pubDate>
+    <lastBuildDate>Sun, 21 Jan 2018 13:30:11 +0100</lastBuildDate>
+    <generator>Jekyll v3.7.0</generator>
     
     
     
-                    
-        
+    
+            
     
     
-                    
-        
     
     
-                    
-        
+            
     
     
-                    
-        
     
     
-                    
-                    
-                    
+            
+    
+    
+    
+    
+            
+    
+    
+    
+    
+            
+    
+    
+    
+    
+            
+                
+                   
                 <item>
-                <title>[Neues Kapitel] "Nach Hause" in Nach Hause</title>
+                <title>  [Neues Kapitel]   "Nach Hause" in Nach Hause</title>
                 <description>&lt;h1 id=&quot;nach-hause&quot;&gt;Nach Hause&lt;/h1&gt;
 
 &lt;p&gt;Allmählich kam ihr Ziel in Sicht, was sie dazu brachte, nervös an ihrem
@@ -51,48 +61,58 @@ der Hand durchs Gesicht.&lt;/p&gt;
 
 </description>
                 <pubDate>Fri, 24 Mar 2017 00:00:00 +0100</pubDate>
-                <link>http://lyns.world/nachhause/NachHause.html</link>
-                <guid isPermaLink="true">http://lyns.world/nachhause/NachHause.html</guid>
+                <link>http://localhost:4000/nachhause/NachHause.html</link>
+                <guid isPermaLink="true">http://localhost:4000/nachhause/NachHause.html</guid>
                 </item>
-                
+                    
+                 
             
-        
     
     
-                    
-        
     
     
-                    
-        
+            
     
     
-                    
-        
     
     
-                    
-        
+            
     
     
-                    
-        
     
     
-                    
-        
+            
     
     
-                    
-        
     
     
-                    
-        
+            
     
     
-                    
-        
+    
+    
+            
+    
+    
+    
+    
+            
+    
+    
+    
+    
+            
+    
+    
+    
+    
+            
+    
+    
+    
+    
+            
+    
         
            
         

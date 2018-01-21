@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lyns Welt</title>
+    <description>Hier finden sich Fantasy, Romantik und Action Stories und manchmal sogar Sci-Fi oder Krimis. Der zugehörige Blog liefert Hintergrundinformationen, Fun Facts und sonstige Erklärungen.</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Sun, 21 Jan 2018 13:30:11 +0100</pubDate>
+    <lastBuildDate>Sun, 21 Jan 2018 13:30:11 +0100</lastBuildDate>
+    <generator>Jekyll v3.7.0</generator>
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+
+        
+        
+    
+    
+    
+    
+    
+    
+
+        
+        
+    
+    
+    
+    
+    
+    
+
+        
+        
+    
+    
+    
+    
+    
+    
+
+        
+        
+      <item>
+        <title>[Neue Story] Nach Hause</title>
+        <description>Es ist nicht einfach seinen Partner das erste mal mit nach Hause zu nehmen... besonders nicht, wenn man die erste ist, die das tut und der Partner etwas aus dem fällt, was als 'normal' bezeichnet wird.</description>
+        <pubDate>Fri, 24 Mar 2017 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/NachHause.html</link>
+        <guid isPermaLink="true">http://localhost:4000/NachHause.html</guid>
+        
+        <category>Sci-Fi</category>
+        
+        <category>3. Person</category>
+        
+        <category>Hetero</category>
+        
+        <category>Slice of Life</category>
+        
+        
+        
+        
+    </item>
+        
+        
+        
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+        
+        
+    
+    
+    
+    
+    
+    
+
+        
+        
+    
+    
+    
+    
+    
+    
+
+        
+        
+    
+    
+    
+    
+    
+    
+
+        
+        
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+        
+        
+    
+    
+    
+    
+    
+    
+
+        
+        
+      <item>
+        <title>[Neue Story] Liam</title>
+        <description>Kennt ihr das? Ein scheinbar normaler Mensch entdeckt an sich außergewöhnliche Fähigkeiten und stolpert dann versehentlich in eine andere Gesellschaft, trifft einen Begleiter, der ihn trainiert und erfährt von ihm, dass er eine besondere Aufgabe hat. In dieser Geschichte betrachten wir die andere Seite. Ein Magier trifft auf einen scheinbar normalen Menschen und beginnt ihn zu trainieren. Nicht unbedingt freiwillig.</description>
+        <pubDate>Fri, 17 Feb 2017 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/Liam.html</link>
+        <guid isPermaLink="true">http://localhost:4000/Liam.html</guid>
+        
+        <category>Fantasy</category>
+        
+        <category>Boys Love</category>
+        
+        <category>Action</category>
+        
+        <category>Ich-Perspektive</category>
+        
+        
+        
+        
+    </item>
+        
+        
+        
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+        
+        
+    
+        
+    </channel>
+</rss>
